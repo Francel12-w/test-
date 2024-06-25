@@ -1,0 +1,4 @@
+My first line
+Second line
+This is a new entry
+Hello world
